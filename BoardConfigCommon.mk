@@ -72,6 +72,7 @@ BOARD_HAS_NO_MISC_PARTITION := true
 BOARD_HAS_NO_SELECT_BUTTON := true
 BOARD_RECOVERY_SWIPE := true
 TARGET_RECOVERY_FSTAB := $(LOCAL_PATH)/rootdir/etc/fstab.qcom
+TW_THEME := portrait_hdpi
 
 # SELinux
 -include device/qcom/sepolicy/sepolicy.mk
