@@ -472,8 +472,8 @@
 		<path name="ear" />
 		<ctl name="HPHL Volume" value="20" />
 		<ctl name="HPHR Volume" value="20" />
-		<ctl name="RX1 Digital Volume" value="77" />
-		<ctl name="RX2 Digital Volume" value="77" />
+		<ctl name="RX1 Digital Volume" value="83" />
+		<ctl name="RX2 Digital Volume" value="83" />
 		<ctl name="COMP1 Switch" value="1" />
 	</path>
 
@@ -722,8 +722,8 @@
 
 	<path name="voice-call-headset">
 		<path name="ear" />
-		<ctl name="HPHL Volume" value="16" />
-		<ctl name="HPHR Volume" value="16" />
+		<ctl name="HPHL Volume" value="20" />
+		<ctl name="HPHR Volume" value="20" />
 		<ctl name="RX1 Digital Volume" value="82" />
 		<ctl name="RX2 Digital Volume" value="82" />
 	</path>
@@ -863,8 +863,8 @@
 
 	<path name="video-call-headset">
 		<path name="ear" />
-		<ctl name="HPHL Volume" value="16" />
-		<ctl name="HPHR Volume" value="16" />
+		<ctl name="HPHL Volume" value="20" />
+		<ctl name="HPHR Volume" value="20" />
 		<ctl name="RX1 Digital Volume" value="82" />
 		<ctl name="RX2 Digital Volume" value="82" />
 	</path>
@@ -958,8 +958,8 @@
 
 	<path name="VoLTE-voice-headset">
 		<path name="ear" />
-		<ctl name="HPHL Volume" value="16" />
-		<ctl name="HPHR Volume" value="16" />
+		<ctl name="HPHL Volume" value="20" />
+		<ctl name="HPHR Volume" value="20" />
 		<ctl name="RX1 Digital Volume" value="82" />
 		<ctl name="RX2 Digital Volume" value="82" />
 	</path>
@@ -1050,8 +1050,8 @@
 
 	<path name="VoLTE-video-headset">
 		<path name="ear" />
-		<ctl name="HPHL Volume" value="16" />
-		<ctl name="HPHR Volume" value="16" />
+		<ctl name="HPHL Volume" value="20" />
+		<ctl name="HPHR Volume" value="20" />
 		<ctl name="RX1 Digital Volume" value="82" />
 		<ctl name="RX2 Digital Volume" value="82" />
 	</path>
@@ -1193,8 +1193,8 @@
 	<path name="voip-headset-comm">
 		<path name="ear" />
 		<ctl name="HPHL DAC Switch" value="1" />
-		<ctl name="HPHL Volume" value="10" />
-		<ctl name="HPHR Volume" value="10" />
+		<ctl name="HPHL Volume" value="20" />
+		<ctl name="HPHR Volume" value="20" />
 		<ctl name="RX1 Digital Volume" value="84" />
 		<ctl name="RX2 Digital Volume" value="84" />
 	</path>
@@ -1214,8 +1214,8 @@
 	<path name="voip-headset-others">
 		<path name="ear" />
 		<ctl name="HPHL DAC Switch" value="1" />
-		<ctl name="HPHL Volume" value="10" />
-		<ctl name="HPHR Volume" value="10" />
+		<ctl name="HPHL Volume" value="20" />
+		<ctl name="HPHR Volume" value="20" />
 		<ctl name="RX1 Digital Volume" value="84" />
 		<ctl name="RX2 Digital Volume" value="84" />
 	</path>
@@ -1234,8 +1234,8 @@
 
 	<path name="voip-headset-chaton">
 		<path name="ear" />
-		<ctl name="HPHL Volume" value="13" />
-		<ctl name="HPHR Volume" value="13" />
+		<ctl name="HPHL Volume" value="20" />
+		<ctl name="HPHR Volume" value="20" />
 		<ctl name="RX1 Digital Volume" value="84" />
 		<ctl name="RX2 Digital Volume" value="84" />
 	</path>
@@ -1254,8 +1254,8 @@
 
 	<path name="voip-headset-carrier">
 		<path name="ear" />
-		<ctl name="HPHL Volume" value="13" />
-		<ctl name="HPHR Volume" value="13" />
+		<ctl name="HPHL Volume" value="20" />
+		<ctl name="HPHR Volume" value="20" />
 		<ctl name="RX1 Digital Volume" value="84" />
 		<ctl name="RX2 Digital Volume" value="84" />
 	</path>
